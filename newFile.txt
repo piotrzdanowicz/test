@@ -1,2 +1,3 @@
 new branch test
 zmiana z local
+zmiana z local2
